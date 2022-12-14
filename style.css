@@ -55,8 +55,10 @@ p {
     padding: 0px 20px 20px 20px;
 }
 
-svg {
+img {
     float: right;
+    width: 54px;
+    height: 54px;
 }
 
 /* display for destops */
