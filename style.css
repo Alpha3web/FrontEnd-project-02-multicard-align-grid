@@ -1,5 +1,6 @@
 :root {
     font-size: 15px;
+    font-family: poppins;
     /* primary colors */
     --Red: hsl(0, 78%, 62%);
     --Cyan: hsl(180, 62%, 55%);
